@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding: 100px;
+	margin: 0;
+}
+center{
+	margin: auto;
+	width: 250px;
+	padding: 10px 10px 20px 10px;
+	transform: scale(1.5);
+	border: 2px solid;
+	box-shadow: 4px 8px 3px rgba(0,0,0,0.3);
+}
+.screen{
+	width: 198px;
+	padding: 5px 10px;
+	border: 1px solid;
+	margin-bottom: 10px;
+	
+}
+.screen p{
+	font-size: 20px;
+	text-align: left;
+	margin: auto;
+}
+button{
+	padding: 3px;
+	margin: 2px;
+	width: 38px;
+	height: 26px;
+	font-family: cambria;
+	font-weight: bold;
+}
+#same{
+	width: 84px;
+}
